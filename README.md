@@ -8,7 +8,7 @@ RF front-end designs for the UHF comms board at 401.4 MHz. Includes matching net
   the antenna ports and the chip through a chain of impedance-matching networks and filters.
 
   ## Signal Chain
-  See `signal_chain.png` for the block-level placement of each filter and matching stage on the board, between the
+  See `Implemented_xxxx_Circuit.png` for the block-level placement of each filter and matching stage on the board, between the
   antenna and the transceiver.
 
   ## Folder Map
@@ -32,7 +32,7 @@ RF front-end designs for the UHF comms board at 401.4 MHz. Includes matching net
 
   ## Final Filters Used
   The filter and matching stages selected from these iterations were integrated into the final UHF board signal chain.
-  Their placement is marked in `signal_chain.png`.
+  Their placement is marked in `Implemented_xxxx_Circuit.png`.
 
   ## Tools
   - **ANSYS HFSS / Electronics Desktop** for EM simulation
